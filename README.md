@@ -1,0 +1,2 @@
+# avmed
+avmed_info
